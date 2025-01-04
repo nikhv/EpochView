@@ -102,5 +102,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## Acknowledgments
 - Inspired by the concept of dynamic live wallpapers.
 - Built using `pygame` and `feh` for a seamless user experience.
+- Concept development and troubleshooting support provided by ChatGPT.
+
 
 

@@ -28,7 +28,7 @@ pip install pygame
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/epochview.git
+git clone https://github.com/nikhv/epochview.git
 cd epochview
 ```
 
